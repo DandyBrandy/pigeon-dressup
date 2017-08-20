@@ -12,4 +12,9 @@ button
     width: 100px;
 }
 
+img
+{
+    max-width: 80%;
+    height: auto;
+}
 
