@@ -14,7 +14,18 @@ button
 
 img
 {
+    display: block;
+    margin: 0 auto;
     max-width: 80%;
     height: auto;
+}
+
+@media all and (max-width: 767px)
+{
+    img 
+    {
+        display: block;
+        margin: 0 auto;
+    }
 }
 
