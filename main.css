@@ -16,10 +16,17 @@ img
 {
     display: block;
     margin: 0 auto;
-    max-width: 80%;
+    max-width: 40%;
     height: auto;
 }
-
+.pigeon
+{
+    background-image: url("img/pigeoncaptain.gif");
+    background-repeat: no-repeat;
+    background-size: contain;
+    background-position: center;
+    height: 200%;
+}
 @media all and (max-width: 767px)
 {
     img 
